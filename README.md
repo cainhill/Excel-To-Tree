@@ -1,12 +1,8 @@
-<br />
+# Excel to Tree
 
 An Excel template to generate large mindmaps from tree-like data tables (e.g. org charts).
 
 Great for anyone working with large sets of hierarchical data.
-
-<br />
-
-<img src="https://i.ibb.co/k30hHDf/Screenshot-Ribbon-7000.png" width="800" />
 
 <br />
 
