@@ -7,7 +7,7 @@ Great for anyone working with large sets of hierarchical data.
 <br />
 
 ## 📥 How to install
-1. Download <a href="https://github.com/cainhill/Excel-To-Tree/blob/main/excel-to-tree-v10.xlsm?raw=true">this file</a>
+1. Download <a href="https://github.com/cainhill/Excel-To-Tree/raw/main/excel-to-tree-v10.xlsm">this file</a>
 2. Open the file and accept any warnings to enable the macros in the spreadsheet
 
 <br />
